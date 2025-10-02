@@ -38,6 +38,8 @@ Cypress.Commands.add('detalhesconta', (nome, sobrenome, usuario) => {
 
 })
 
+                                                                                                                
+
 
 
 

@@ -1,10 +1,13 @@
-{
+                                  {
   "name": "teste-ebac-ui",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx cypress run",
+    "cy:dash" : "npx cypress run --record --key 6868e740-5bbe-48ab-a272-d7efdde99f0c"
+
+
   },
   "keywords": [],
   "author": "",

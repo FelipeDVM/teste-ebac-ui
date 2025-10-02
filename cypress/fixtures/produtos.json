@@ -1,0 +1,28 @@
+[
+{
+"nomeProduto":"Abominable Hoodie",
+"tamanho":"XS",
+"cor":"blue",
+"quantidade": 4
+},
+
+{
+
+"nomeProduto":"Ingrid Running Jacket",
+"tamanho":"S",
+"cor":"Orange",
+"quantidade": 4
+
+},
+
+{
+
+"nomeProduto":"Augusta Pullover Jacket",
+"tamanho":"S",
+"cor":"Red",
+"quantidade": 5
+
+}
+
+
+]
